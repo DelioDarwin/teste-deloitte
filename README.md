@@ -17,11 +17,7 @@
   
 ## Functionalities
 
-  + Create games in the database
-  + Read games in the database
-  + Update games in the database
-  + Delete games in the database
-  + Click card to edit and delete
+  + Teste Deloitte
   
 ## Used Libraries
 
