@@ -17,7 +17,11 @@
   
 ## Functionalities
 
-  + Teste Deloitte
+  Adicionar Equipamentos, Target, Data, retorno das informações
+
+  Frontend - React - Axios, Material UI
+  Backend - Node.JS - Express, Cors, Nodemon, MySQL - POST/GET
+  DB - MySQL
   
 ## Used Libraries
 
